@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MateuszNk - Mateusz Nowak
+- 👨‍🎓 I'm studying IT at the Technical University of Łódź
+- 👀 I’m interested in programming, especially in Java
+- 🌱 I’m currently learning Java, MySQL, HTML + CSS
+- 📫 How to reach me: mateusz00nowak@gmail.com
